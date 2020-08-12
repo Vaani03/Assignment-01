@@ -1,2 +1,2 @@
-# Assignment-01
+# Assignments
 TCS307 Assignment
